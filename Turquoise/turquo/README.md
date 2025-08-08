@@ -1,4 +1,4 @@
-# hematit-website
+# Turquoise Agency
 
 ## Project setup
 ```
